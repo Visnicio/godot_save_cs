@@ -1,3 +1,7 @@
+# WARNING
+this repo still a under construction, I was using claude to refactor everthing to csharp but it made some shit shitty things
+so I am still cleaning up some things
+
 # 📦 Addon Save – Secure Save, Load, and Screenshot Plugin for Godot 4
 
 ![Godot](https://img.shields.io/badge/Godot-4.x-blue?style=for-the-badge)
